@@ -1,0 +1,101 @@
+Timestamp,Vehicle_Count,Average_Speed,Congestion_Level,Weather_Condition,Accident_Reported,Road_Type
+01-02-2025 05:30,54,83.9,High,cloudy,Yes,
+01-02-2025 05:40,244,,Low,,,Highway
+2025-02-01 05:50:00,328,,Low,Rain,Yes,
+2025-02-01 06:00:00,103,fast,Low,cloudy,,
+01-02-2025 06:10,62,,,cloudy,N,Rural
+2025-02-01 06:20:00,,fast,,,No,Highway
+2025-02-01 06:30:00,,35.9,Low,cloudy,N,City Road
+01-02-2025 06:40,,13.5,,cloudy,Y,Rural
+2025-02-01 06:50:00,,16.2,High,Sunny,,
+,,,,Fog,Yes,city road
+2025-02-01 07:10:00,282,,Medium,,No,city road
+2025-02-01 07:20:00,N/A,,Medium,,N,
+2025-02-01 07:30:00,,fast,Low,Rain,No,City Road
+01-02-2025 07:40,N/A,33.6,Medium,Sunny,,Rural
+2025-02-01 07:50:00,94,,heavy,Sunny,N,Highway
+2025-02-01 08:00:00,127,,Medium,Clear,Y,
+,N/A,,,Clear,Yes,City Road
+01-02-2025 08:20,,,Low,Clear,N,city road
+2025-02-01 08:30:00,103,,heavy,,,City Road
+2025-02-01 08:40:00,,23.2,,Fog,,Highway
+2025-02-01 08:50:00,N/A,fast,,cloudy,,Rural
+2025-02-01 09:00:00,N/A,fast,Medium,cloudy,N,Rural
+2025-02-01 09:10:00,,,heavy,,,Rural
+2025-02-01 09:20:00,142,fast,High,Rain,N,
+2025-02-01 09:30:00,,,,Clear,,Highway
+2025-02-01 09:40:00,,,,Fog,Yes,
+2025-02-01 09:50:00,N/A,fast,Low,Rain,,city road
+01-02-2025 10:00,,,Medium,cloudy,,City Road
+,N/A,fast,Medium,Clear,Y,City Road
+2025-02-01 10:20:00,,,Medium,Clear,,Rural
+2025-02-01 10:30:00,,fast,,Rain,,
+,N/A,fast,Medium,Rain,N,
+2025-02-01 10:50:00,,80.6,,Clear,No,City Road
+2025-02-01 11:00:00,,60.6,heavy,Fog,,
+01-02-2025 11:10,,,,Rain,,
+2025-02-01 11:20:00,N/A,fast,heavy,Clear,N,city road
+2025-02-01 11:30:00,249,,Low,,No,
+2025-02-01 11:40:00,N/A,fast,,Clear,N,city road
+2025-02-01 11:50:00,N/A,,High,Sunny,No,Rural
+2025-02-01 12:00:00,,,,Clear,N,Rural
+2025-02-01 12:10:00,62,fast,Low,Clear,Y,Rural
+,,,,,Y,city road
+2025-02-01 12:30:00,,73.0,High,Clear,,City Road
+01-02-2025 12:40,38,82.1,,,No,Highway
+01-02-2025 12:50,,,High,cloudy,No,Highway
+2025-02-01 13:00:00,N/A,fast,Medium,Fog,,Rural
+2025-02-01 13:10:00,N/A,34.3,High,Clear,Yes,Highway
+2025-02-01 13:20:00,,,Low,,,city road
+2025-02-01 13:30:00,,fast,High,Rain,,
+2025-02-01 13:40:00,207,85.3,Low,,,Rural
+01-02-2025 13:50,,,Low,Sunny,No,City Road
+01-02-2025 14:00,,,Medium,Clear,Y,City Road
+01-02-2025 14:10,225,fast,Medium,cloudy,Yes,Highway
+01-02-2025 14:20,234,,High,,No,Highway
+2025-02-01 14:30:00,,,Medium,Fog,,
+01-02-2025 14:40,,fast,,,,
+2025-02-01 14:50:00,N/A,17.7,Medium,,Y,Highway
+2025-02-01 15:00:00,55,fast,heavy,Fog,Yes,city road
+2025-02-01 15:10:00,287,69.3,,,N,Rural
+2025-02-01 15:20:00,N/A,,heavy,,N,Highway
+2025-02-01 15:30:00,N/A,fast,High,Fog,,
+2025-02-01 15:40:00,98,,High,,Yes,
+2025-02-01 15:50:00,,,Low,cloudy,No,Rural
+2025-02-01 16:00:00,,,High,Sunny,No,City Road
+,N/A,,High,Rain,,
+2025-02-01 16:20:00,N/A,,heavy,Clear,No,Highway
+2025-02-01 16:30:00,,,High,Sunny,Y,Highway
+01-02-2025 16:40,,fast,,Clear,,Rural
+01-02-2025 16:50,229,,High,,Yes,Rural
+2025-02-01 17:00:00,N/A,,heavy,cloudy,Y,City Road
+2025-02-01 17:10:00,249,,,cloudy,No,
+,,fast,,,Y,city road
+,N/A,,High,Fog,Y,Rural
+2025-02-01 17:40:00,,,heavy,cloudy,,city road
+2025-02-01 17:50:00,N/A,,,Rain,N,Rural
+2025-02-01 18:00:00,N/A,fast,High,cloudy,Yes,Rural
+2025-02-01 18:10:00,N/A,,heavy,Sunny,,
+2025-02-01 18:20:00,,,Medium,,,
+2025-02-01 18:30:00,140,fast,heavy,Sunny,,city road
+2025-02-01 18:40:00,N/A,,,Sunny,Yes,Highway
+2025-02-01 18:50:00,,fast,Low,Rain,No,City Road
+2025-02-01 19:00:00,264,59.6,Low,,No,City Road
+01-02-2025 19:10,N/A,,,,Yes,Highway
+,N/A,fast,,Clear,Yes,
+2025-02-01 19:30:00,N/A,fast,,Rain,Yes,city road
+2025-02-01 19:40:00,N/A,,Low,Fog,No,
+2025-02-01 19:50:00,282,,High,,N,City Road
+,179,fast,High,,No,City Road
+2025-02-01 20:10:00,181,,,Rain,No,city road
+2025-02-01 20:20:00,N/A,93.0,Medium,Clear,,City Road
+2025-02-01 20:30:00,,,,Clear,Yes,City Road
+01-02-2025 20:40,,,High,Fog,N,City Road
+01-02-2025 20:50,,47.8,,,No,city road
+2025-02-01 21:00:00,251,,Medium,Fog,,city road
+2025-02-01 21:10:00,272,fast,,,N,Highway
+2025-02-01 21:20:00,,27.5,,Fog,Y,Rural
+2025-02-01 21:30:00,,,High,Fog,Yes,
+2025-02-01 21:40:00,63,84.3,heavy,,N,city road
+2025-02-01 21:50:00,N/A,fast,Low,,,Rural
+2025-02-01 22:00:00,N/A,,heavy,Fog,,Highway
